@@ -1,7 +1,7 @@
 %chk=2ZKS_inh_wcl.chk
 %mem=5000MB
 %nproc=8
-# hf/6-31G* SCF=Tight Pop=(MK) IOP=(6/33=2)
+#P hf/6-31G* SCF=Tight Pop=(MK) IOP=(6/33=2)
 
 2ZKS_inh_wcl_SCF
 
